@@ -1,6 +1,6 @@
 # QRE1113
  
- ![](/img/back.png)
+ ![](/img/back.jpg)
 
 
 # Licencia
