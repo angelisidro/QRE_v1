@@ -2,6 +2,9 @@
  
  ![](/img/back.jpg)
 
+Esta versión de la placa de conexiones QRE1113 cuenta con una salida analógica fácil de usar, que variará según la cantidad de luz IR reflejada al sensor. Esta pequeña placa es perfecta para aplicaciones de detección de línea y se puede utilizar tanto en sistemas de 3,3 V como de 5 V.
+
+Estos sensores se utilizan ampliamente en robots de seguimiento de línea: las superficies blancas reflejan mucha más luz que la negra, por lo que, cuando se dirigen hacia una superficie blanca, la salida de voltaje será menor que la de una superficie negra.
 
 # Licencia
 
